@@ -9,7 +9,7 @@ I am a bioinformatician (M.Sc. Biotechnology) specialising in microbiome and met
 Bioinformatics and computational biology roles, especially microbiome and metagenomic data analysis, in research or industry.
 
 ## Currently
-Preparing a bioRxiv preprint on an **exploratory 16S rRNA analysis of gut microbiota in inflammatory bowel disease (IBD)**, with my mentor Dr. Elamathi Natarajan. A review article from my M.Sc. is also in the publication process.
+Preparing a bioRxiv preprint on an **exploratory 16S rRNA analysis of gut microbiota in inflammatory bowel disease (IBD)**, with my mentor Dr. Elamathi Natarajan. A review article from my M.Sc. is also in preparation.
 
 ## Experience
 **Bioinformatics, AI & Machine Learning Intern**, Biotecnika Info Labs, Bangalore (6 months)
@@ -46,3 +46,5 @@ Preparing a bioRxiv preprint on an **exploratory 16S rRNA analysis of gut microb
 ## Connect
 - LinkedIn: [linkedin.com/in/amanzehra](https://www.linkedin.com/in/amanzehra)
 - Email: amanzehra.18@gmail.com
+- - Blog: [The Microbiome Notes](https://amanzehra4.wordpress.com)
+- Portfolio: [amanzehra18-oss.github.io](https://amanzehra18-oss.github.io)
