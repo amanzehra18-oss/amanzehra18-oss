@@ -9,7 +9,7 @@ I am a bioinformatician (M.Sc. Biotechnology) specialising in microbiome and met
 Bioinformatics and computational biology roles, especially microbiome and metagenomic data analysis, in research or industry.
 
 ## Currently
-Preparing a bioRxiv preprint on an **exploratory 16S rRNA analysis of gut microbiota in inflammatory bowel disease (IBD)**, with my mentor Dr. Elamathi Natarajan. A review article from my M.Sc. is also in preparation.
+Posted a bioRxiv preprint on an **exploratory 16S rRNA analysis of gut microbiota in inflammatory bowel disease (IBD)**, with my mentor Dr. Elamathi Natarajan: [doi.org/10.64898/2026.10.16.759573](https://doi.org/10.64898/2026.10.16.759573). A review article from my M.Sc. is also in preparation.
 
 ## Experience
 **Bioinformatics, AI & Machine Learning Intern**, Biotecnika Info Labs, Bangalore (6 months)
@@ -30,7 +30,7 @@ Preparing a bioRxiv preprint on an **exploratory 16S rRNA analysis of gut microb
 - Review article: *Intensify nutrition of crop via transgenic method of biofortification: a direction to sustainable agronomy*
 
 ## Featured projects
-- **[ibd-16s-microbiome](https://github.com/amanzehra18-oss/ibd-16s-microbiome)**: code, notebooks, supplementary tables and Cytoscape sessions for an integrated 16S analysis of gut microbiota, predicted pathways and candidate biomarkers in IBD (22 public stool samples; exploratory study)
+- **[ibd-16s-microbiome](https://github.com/amanzehra18-oss/ibd-16s-microbiome)**: code, notebooks, supplementary tables and Cytoscape sessions for an integrated 16S analysis of gut microbiota, predicted pathways and candidate biomarkers in IBD (22 public stool samples; exploratory study)Preprint: [bioRxiv](https://doi.org/10.64898/2026.10.16.759573)
 - **[MCAI_INTERN](https://github.com/amanzehra18-oss/MCAI_INTERN)**: machine learning for autoimmune disease classification from gut microbiome profiles
 
 ## Skills
